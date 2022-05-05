@@ -1,0 +1,2 @@
+<!--pages/Bfirst/Bfirst.wxml-->
+<button type="primary" bindtap="jumpPage" > 调兵遣将 </button>

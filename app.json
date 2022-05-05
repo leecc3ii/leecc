@@ -1,0 +1,45 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/logs/logs",
+        "pages/diaob/diaob",
+        "pages/verify/verify",
+        "pages/query/query",
+        "pages/share/share",
+        "pages/constr/constr",
+        "pages/login/login",
+        "pages/enroll/enroll"
+    ],
+    "tabBar": {
+        "color": "#999999",
+        "selectedColor": "#000000",
+        "backgroundColor": "#ffffff",
+        "list": [
+            {
+                "pagePath": "pages/diaob/diaob",
+                "text": "首页"
+            },
+            {
+                "pagePath": "pages/constr/constr",
+                "text": "施工和验收"
+            },
+            {
+                "pagePath": "pages/verify/verify",
+                "text": "测试验证"
+            },
+            {
+                "pagePath": "pages/logs/logs",
+                "text": "调用日志"
+            }
+        ]
+    },
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "5G_RNP_Tool",
+        "navigationBarTextStyle": "black"
+    },
+    "entryPagePath": "pages/login/login",
+    "style": "v2",
+    "sitemapLocation": "sitemap.json"
+}
