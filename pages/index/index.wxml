@@ -1,2 +1,13 @@
-<!--pages/Bfirst/Bfirst.wxml-->
-<button type="primary" bindtap="jumpPage" > 调兵遣将 </button>
+<!--按钮-->
+<view class="index1">
+    <button class="btn1" bindtap="onDefaultButtonClick" type="primary"> 调兵遣将 </button>
+</view>
+<view class="img1">
+		<image src="../images/hufu.png" style="width: 99%; height: 180px;"></image>
+</view>
+<view class="index2">
+    <button class="btn2" bindtap="onDefaultButtonClick" type="primary"> 勘察设计</button>
+</view>
+<view class="img2">
+		<image src="../images/toolbox.png" style="width: 99%; height: 180px;"></image>
+</view>

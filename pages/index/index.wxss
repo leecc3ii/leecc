@@ -1,1 +1,18 @@
 /* pages/Bfirst/Bfirst.wxss */
+.index1{
+    width: 90%;
+    height: 90rpx;
+    margin-top: 80rpx;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.index2{
+    width: 90%;
+    height: 90rpx;
+    margin-top: 20rpx;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.img2{
+   margin-top: 30rpx;
+}

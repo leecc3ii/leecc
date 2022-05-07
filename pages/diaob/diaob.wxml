@@ -1,3 +1,12 @@
 <!--pages/index/index.wxml-->
-<button type="primary" size="{{defaultSize}}" loading="{{loading}}" plain="{{plain}}"
-        disabled="{{disabled}}" bindtap="jumpPage" > 将 </button>
+<view>
+    <text class="tit1">设计图纸入库</text>    
+</view>
+
+<view>
+    <text class="tit2">图纸调用情况</text>    
+</view>
+<view>
+    <text class="tit3">调用分类</text>    
+</view>
+

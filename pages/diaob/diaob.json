@@ -1,6 +1,7 @@
 {
   "usingComponents": {},
-  "navigationBarBackgroundColor":"#349e20",
-  "navigationBarTitleText": "用户登录",
+  "navigationBarBackgroundColor":"#ffffff",
+  "navigationBarTitleText": "调兵遣将",
   "navigationBarTextStyle":"black"
 }
+

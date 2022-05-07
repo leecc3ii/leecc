@@ -8,28 +8,44 @@
         "pages/share/share",
         "pages/constr/constr",
         "pages/login/login",
-        "pages/enroll/enroll"
+        "pages/enroll/enroll",
+        "pages/dyxianshi/dyxianshi",
+        "pages/return/return"
     ],
     "tabBar": {
         "color": "#999999",
-        "selectedColor": "#000000",
-        "backgroundColor": "#ffffff",
+        "selectedColor": "#129456",
+        "backgroundColor": "#dgerhh",
         "list": [
             {
                 "pagePath": "pages/diaob/diaob",
-                "text": "首页"
+                "text": "首页",
+                "iconPath": "pages/images/1-n.png",
+                "selectedIconPath": "pages/images/1-y.png"
             },
             {
                 "pagePath": "pages/constr/constr",
-                "text": "施工和验收"
+                "text": "施工和验收",
+                "iconPath": "pages/images/2-n.png",
+                "selectedIconPath": "pages/images/2-y.png"
             },
             {
                 "pagePath": "pages/verify/verify",
-                "text": "测试验证"
+                "text": "测试验证",
+                "iconPath": "pages/images/4-n.png",
+                "selectedIconPath": "pages/images/4-y.png"
             },
             {
                 "pagePath": "pages/logs/logs",
-                "text": "调用日志"
+                "text": "调用日志",
+                "iconPath": "pages/images/3-n.png",
+                "selectedIconPath": "pages/images/3-y.png"
+            },
+            {
+                "pagePath": "pages/return/return",
+                "text": "返回上级",
+                "iconPath": "pages/images/6-n.png",
+                "selectedIconPath": "pages/images/6-y.png"
             }
         ]
     },
@@ -39,7 +55,7 @@
         "navigationBarTitleText": "5G_RNP_Tool",
         "navigationBarTextStyle": "black"
     },
-    "entryPagePath": "pages/login/login",
+    "entryPagePath": "pages/index/index",
     "style": "v2",
     "sitemapLocation": "sitemap.json"
 }

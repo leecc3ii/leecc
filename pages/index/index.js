@@ -27,6 +27,10 @@ Page({
     this.setData({
       loading: !this.data.loading
     })
+  },
+  onDefaultButtonClick: function(param){
+     wx.switchTab({
+       url: '../diaob/diaob'
+     })
   }
-
 })

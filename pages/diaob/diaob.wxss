@@ -1,1 +1,10 @@
 /* pages/index/index.wxss */
+.tit1{
+    background-color: rgb(238, 176, 190);
+}
+.tit2{
+    background-color: rgb(238,176, 190);
+}
+.tit3{
+    background-color: rgb(238, 176, 190);
+}

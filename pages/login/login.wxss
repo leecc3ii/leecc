@@ -74,7 +74,7 @@ page{
     margin-left: 60rpx;
   }
   .loginBtn{
-    margin-top: 20rpx;
+    margin-top: 40rpx;
     font-size: 30rpx;
   }
   /* pages/login/login.wxss */

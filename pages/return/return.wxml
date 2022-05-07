@@ -1,0 +1,3 @@
+<view class="btn-area" id="buttonContainer">
+    <button type="primary" bindtap="go2index">返回上级</button>
+</view>
